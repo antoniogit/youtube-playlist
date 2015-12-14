@@ -1,0 +1,28 @@
+<section class="mbr-section mbr-section--relative" id="msg-box4-4" style="background-color: rgb(184, 49, 47);">
+
+    <div class="mbr-section__container mbr-section__container--isolated container">
+        <div class="row" >
+            <div class="mbr-box mbr-box--fixed mbr-box--adapted">
+                <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
+                    <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom">
+                        <a  href="http://www.google.com">
+                        <img class="mbr-figure__img" alt="" src="assets/images/iphone.png">
+                        </a>
+                    </figure>
+                </div>
+                <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
+                            <a href="http://google.com" class="mbr-header__text ">DRAG AND DROP WEBSITE BUILDER</a>
+                            <p class="mbr-header__subtext">By John Smith posted July 30, 2015</p>
+                        </div>
+                    </div>
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p class="minimize">Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>

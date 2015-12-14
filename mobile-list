@@ -1,0 +1,22 @@
+<section class="mbr-section mbr-section--relative" id="msg-box4-4" style="background-color: rgb(184, 49, 47);"> 
+    <div class="mbr-section__container mbr-section__container--isolated container">
+        <div class="row">
+            <div class="mbr-box mbr-box--fixed mbr-box--adapted">
+                
+                <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__left">
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
+                            <a href="{{titleUrl}}" class="mbr-header__text">{{title}}</a>
+                            <p class="mbr-header__subtext">{{publishedAt}}</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="mbr-box__magnet mbr-box__magnet--top-left mbr-section__right col-sm-6">
+                    <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom">
+                        <a href="{{detailUrl}}">
+                        <img class="mbr-figure__img" alt="" src="{{thumbnailsUrl}}">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div></section>
